@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Result";
+}
+<a href="/Portfolio/Result">Results</a>
+<a href="/Portfolio/Project">Project</a>
+<a href="/Portfolio/Contact">Contact</a>
+
+<h2>@ViewData["Message"]</h2>
+
+@foreach (var r in Model)
+{
+    <ul>
+        <li>Exam : @r.ExamTitle</li>
+        <li>GPA  : @r.ExamGrade</li>
+        <li>Institution Name : @r.Institution</li>
+    </ul>
+
+}
+
