@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\views\\portfolio\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\portfolio\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\views\\portfolio\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\views\\portfolio\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\views\\portfolio\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\secondlab\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|c:\\users\\user\\documents\\asp dot net\\lab_practices\\secondlab\\secondlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76794076-C0EE-465A-B0E8-55E7742C2AE5}|SecondLab\\SecondLab.csproj|solutionrelative:secondlab\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "SecondLab\\App_Start\\RouteConfig.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "SecondLab\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T16:06:53.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:06:53.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Views\\Portfolio\\Contact.cshtml",
               "RelativeDocumentMoniker": "SecondLab\\Views\\Portfolio\\Contact.cshtml",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Result.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Views\\Portfolio\\Result.cshtml",
               "RelativeDocumentMoniker": "SecondLab\\Views\\Portfolio\\Result.cshtml",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "SecondLab\\Views\\Portfolio\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T15:51:06.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T15:51:06.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Models\\Result.cs",
               "RelativeDocumentMoniker": "SecondLab\\Models\\Result.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "SecondLab\\Models\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:45:16.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T15:45:16.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Models\\Project.cs",
               "RelativeDocumentMoniker": "SecondLab\\Models\\Project.cs",
@@ -111,26 +108,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Project.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Views\\Portfolio\\Project.cshtml",
               "RelativeDocumentMoniker": "SecondLab\\Views\\Portfolio\\Project.cshtml",
               "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Views\\Portfolio\\Project.cshtml",
               "RelativeToolTip": "SecondLab\\Views\\Portfolio\\Project.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T15:19:31.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "SecondLab\\Controllers\\PortfolioController.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\LAB_PRACTICES\\SecondLab\\SecondLab\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "SecondLab\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T15:18:20.906Z",
               "EditorCaption": ""
