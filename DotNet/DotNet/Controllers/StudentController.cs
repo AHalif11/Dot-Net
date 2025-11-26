@@ -29,11 +29,20 @@ namespace DotNet.Controllers
         var d = db.Students.ToList();
             return View(d);
         }
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            var st = db.Students.Find(id);
+            return View(st);
+        }
+        [HttpPost]
         public ActionResult Delete(Student s)
         {
             var st = db.Students.Find(s.Id);
             db.Students.Remove(st);
             db.SaveChanges();
+
+            TempData["Msg"] = "Student Data Deleted!";
             return RedirectToAction("List");
         }
         [HttpGet]
