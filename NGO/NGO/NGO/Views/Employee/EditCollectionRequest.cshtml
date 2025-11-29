@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "EditCollectionRequest";
+}
+
+<h2>Edit</h2>
+
+<form method="post">
+    <input type="hidden" value="@Model.RequestId" name="RequestId" class="form-control" />
+    <input type="hidden" value="@Model.RestaurantId" name="RestaurantId" class="form-control" />
+    <input type="text" value="@Model.FoodDescription" name="FoodDescription" class="form-control" readonly /><br />
+    <input type="text" value="@Model.Quantity" name="Quantity" class="form-control" readonly /><br />
+    @*<input type="date" value="@Model.MaxPreserveTime.ToString("yyyy-MM-dd")" name="MaxPreserveTime" class="form-control" readonly /><br />*@
+    <select name="EmployeeId" class="form-control">
+        @foreach (var item in ViewBag.emp)
+        {
+            <option value="@item.EmployeeId">@item.EmployeeName</option>
+        }
+    </select>
+    <br />
+    <select name="Status" class="form-control">
+        <option value="Accepted">Accepted</option>
+        <option value="Picked">Picked</option>
+        <option value="Distributed">Distributed</option>
+    </select>
+    <br />
+    <input type="submit" value="Update" class="btn btn-primary" />
+
+</form>

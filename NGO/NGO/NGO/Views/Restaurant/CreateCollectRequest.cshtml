@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "CreateCollectRequest";
+}
+
+<h2>CollectRequest</h2>
+<form method="post">
+    FoodDescription :
+    <input type="text" name="FoodDescription" class="form-control" /><br />
+    Quantity(Total Person) :
+    <input type="number" name="Quantity" class="form-control" /><br />
+    MaxPreserveTime :
+    <input type="datetime-local" name="MaxPreserveTime" class="form-control" />
+    <br />
+    <select name="RestaurantId" class="form-control">
+        @foreach (var item in Model)
+        {
+            <option value="@item.RestaurantId">@item.RestaurantName</option>
+        }
+    </select>
+    <br />
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>
+

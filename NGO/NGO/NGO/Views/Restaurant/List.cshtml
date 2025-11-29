@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+@{
+    if (TempData["msg"] != null)
+    { <p class="alert alert-info">@TempData["msg"]</p>}
+}
+
+<h2>List</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Restaurant Id</th>
+        <th>Restaurant Name</th>
+        <th>Restaurant Address</th>
+        <th>Restaurant ContactNo</th>
+        <th>Restaurant Email</th>
+        @*<th>Employee JoinDate</th>*@
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.RestaurantId</td>
+            <td>@item.RestaurantName</td>
+            <td>@item.RestaurantAddress</td>
+            <td>@item.RestaurantContactNumber</td>
+            <td>@item.RestaurantEmail</td>
+            @*<td>@item.JoinDate</td>*@
+        </tr>
+    }
+</table>

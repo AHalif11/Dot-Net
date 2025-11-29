@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "CollectRequestList";
+}
+
+@{
+    if (TempData["msg"] != null)
+    { <p class="alert alert-info">@TempData["msg"]</p>}
+}
+
+<h2>CollectRequestList</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Request ID</th>
+        <th>Restaurant ID</th>
+        <th>Restaurant Name</th>
+        <th>Food Description</th>
+        <th>Food Quantity</th>
+        <th>Status</th>
+        <th>Maximum Preserve Time</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.RequestId</td>
+            <td>@item.Restaurant.RestaurantId</td>
+            <td>@item.Restaurant.RestaurantName</td>
+            <td>@item.FoodDescription</td>
+            <td>@item.Quantity</td>
+            <td>@item.Status</td>
+            <td>@item.MaxPreserveTime</td>
+            <td>
+                <a href="/Employee/EditCollectionRequest/@item.RequestId" class="btn btn-secondary">Update status</a>
+            </td>
+        </tr>
+    }
+
+</table>

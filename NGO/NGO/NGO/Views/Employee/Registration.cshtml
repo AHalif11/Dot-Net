@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration</h2>
+
+<form method="post">
+    EmployeeName :
+    <input type="text" name="EmployeeName" value="@Model.EmployeeName" class="form-control"><br />
+    EmployeePhone :
+    <input type="text" name="EmployeePhone" value="@Model.EmployeePhone" class="form-control" /><br />
+    EmployeeEmail :
+    <input type="email" name="EmployeeEmail" value="@Model.EmployeeEmail" class="form-control" />
+    <br />
+    <input type="submit" value="Submit" class="btn btn-primary"/>
+</form>
+

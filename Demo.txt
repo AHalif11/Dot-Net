@@ -1,0 +1,31 @@
+NGO Tables
+CREATE TABLE Restaurant (
+    RestaurantId INT IDENTITY(1,1) PRIMARY KEY,
+    RestaurantName VARCHAR(100) NOT NULL,
+    RestaurantAddress VARCHAR(200),
+    RestaurantContactNumber VARCHAR(20),
+    RestaurantEmail VARCHAR(100),
+    CreatedAt DATETIME DEFAULT GETDATE()
+);
+
+
+CREATE TABLE Employee (
+    EmployeeId INT IDENTITY(1,1) PRIMARY KEY,
+    EmployeeName VARCHAR(100) NOT NULL,
+    EmployeePhone VARCHAR(20),
+    EmployeeEmail VARCHAR(100),
+    JoinDate DATETIME DEFAULT GETDATE()
+);
+
+CREATE TABLE CollectRequest (
+    RequestId INT IDENTITY(1,1) PRIMARY KEY,
+    RestaurantId INT,
+    FoodDescription VARCHAR(200),
+    Quantity VARCHAR(50),
+    RequestTime DATETIME DEFAULT GETDATE(),
+    MaxPreserveTime DATETIME NOT NULL,
+    EmployeeId INT NULL,
+    Status VARCHAR(20),
+    FOREIGN KEY (RestaurantId) REFERENCES Restaurant(RestaurantId),
+    FOREIGN KEY (EmployeeId) REFERENCES Employee(EmployeeId)
+);

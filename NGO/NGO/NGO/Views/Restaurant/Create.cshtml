@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<form method="post">
+    Restaurant Name :
+    <input type="text" name="RestaurantName" value="@Model.RestaurantName" class="form-control"><br />
+    Restaurant Address :
+    <input type="text" name="RestaurantAddress" value="@Model.RestaurantAddress" class="form-control" /><br />
+    Restaurant Contact Number :
+    <input type="number" name="RestaurantContactNumber" value="@Model.RestaurantContactNumber" class="form-control" /><br />
+    Restaurant Email :
+    <input type="email" name="RestaurantEmail" value="@Model.RestaurantEmail" class="form-control" />
+
+    <br />
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>
+

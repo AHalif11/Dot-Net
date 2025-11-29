@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\views\\employee\\collectrequestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\views\\employee\\collectrequestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\views\\restaurant\\createcollectrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\views\\restaurant\\createcollectrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\views\\employee\\editcollectionrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\views\\employee\\editcollectionrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|c:\\users\\user\\documents\\asp dot net\\last_lab\\ngo\\ngo\\ngo\\ef\\ngo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{59B804E8-BFC0-45F4-8F67-A794D8BDC5E1}|NGO\\NGO.csproj|solutionrelative:ngo\\ef\\ngo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectRequestList.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Employee\\CollectRequestList.cshtml",
+              "RelativeDocumentMoniker": "NGO\\Views\\Employee\\CollectRequestList.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Employee\\CollectRequestList.cshtml",
+              "RelativeToolTip": "NGO\\Views\\Employee\\CollectRequestList.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T15:56:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "NGO\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "NGO\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:18:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Restaurant\\Create.cshtml",
+              "RelativeDocumentMoniker": "NGO\\Views\\Restaurant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Restaurant\\Create.cshtml",
+              "RelativeToolTip": "NGO\\Views\\Restaurant\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T14:27:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "NGO\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "NGO\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:25:44.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCollectRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "RelativeDocumentMoniker": "NGO\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "RelativeToolTip": "NGO\\Views\\Restaurant\\CreateCollectRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T14:52:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCollectionRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Employee\\EditCollectionRequest.cshtml",
+              "RelativeDocumentMoniker": "NGO\\Views\\Employee\\EditCollectionRequest.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\Views\\Employee\\EditCollectionRequest.cshtml",
+              "RelativeToolTip": "NGO\\Views\\Employee\\EditCollectionRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:11:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NGO.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\EF\\NGO.edmx",
+              "RelativeDocumentMoniker": "NGO\\EF\\NGO.edmx",
+              "ToolTip": "C:\\Users\\User\\Documents\\ASP DOT NET\\Last_lab\\NGO\\NGO\\NGO\\EF\\NGO.edmx [Diagram1]",
+              "RelativeToolTip": "NGO\\EF\\NGO.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-29T17:12:10.52Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
